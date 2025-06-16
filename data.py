@@ -1,6 +1,6 @@
 # data.py
 
-URBAN_ROUTES_URL = 'https://cnt-acd6263c-c09e-4778-a637-d05916f712a7.containerhub.tripleten-services.com?lng=pt'  # URL do botão de iniciar o servidor
+URBAN_ROUTES_URL = 'https://cnt-238711d4-61fa-479d-8807-06e245128779.containerhub.tripleten-services.com?lng=pt'  # URL do botão de iniciar o servidor
 
 ADDRESS_FROM = 'East 2nd Street, 601'
 ADDRESS_TO = '1300 1st St'

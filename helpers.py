@@ -2,9 +2,9 @@
 # O arquivo deve permanecer completamente inalterado
 
 def retrieve_phone_code(driver) -> str:
-    """Este código recupera o número de confirmação do telefone e o retorna como uma string.
-    Use-o quando o aplicativo espera o código de confirmação para passá-lo para seus testes.
-    O código de confirmação do telefone só pode ser obtido após ser solicitado no aplicativo."""
+    #Este código recupera o número de confirmação do telefone e o retorna como uma string.
+    #Use-o quando o aplicativo espera o código de confirmação para passá-lo para seus testes.
+    #O código de confirmação do telefone só pode ser obtido após ser solicitado no aplicativo.
 
     import json
     import time
